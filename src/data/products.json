@@ -1,0 +1,509 @@
+[
+  {
+    "id_producto": 1,
+    "id_categoria": 1,
+    "nombre": "Lunchbox Cake (10cm)",
+    "descripcion": "Torta personalizada estilo coreano en envase biodegradable, incluye vela. [cite: 12]",
+    "precio": 30.00,
+    "notas_generales": "Decoración en buttercream tiene costo adicional de 5 soles. [cite: 17] Sabores y rellenos disponibles. [cite: 25-39]"
+  },
+  {
+    "id_producto": 2,
+    "id_categoria": 1,
+    "nombre": "Lunchbox Cake (12cm, 6-8 porciones)",
+    "descripcion": "Torta personalizada estilo coreano en envase biodegradable, incluye vela. [cite: 12, 15]",
+    "precio": 50.00,
+    "notas_generales": "Decoración en buttercream tiene costo adicional de 5 soles. [cite: 17] Sabores y rellenos disponibles. [cite: 25-39]"
+  },
+  {
+    "id_producto": 3,
+    "id_categoria": 1,
+    "nombre": "Lunchbox Cake Piñata",
+    "descripcion": "Tres capas de bizcocho (vainilla/chocolate) con relleno (manjar/fudge) e interior de chinchin/lentejitas y/o marshmellows. [cite: 16]",
+    "precio": 40.00
+  },
+  {
+    "id_producto": 4,
+    "id_categoria": 1,
+    "nombre": "Torta Grande Personalizada (16cm, 10-12 porciones)",
+    "descripcion": "Torta personalizada de 16cm. También se realizan foto tortas con papel oblea. [cite: 18, 22, 23]",
+    "precio": 100.00,
+    "notas_generales": "Sabores y rellenos disponibles. [cite: 25-39]"
+  },
+  {
+    "id_producto": 5,
+    "id_categoria": 1,
+    "nombre": "Torta Grande Personalizada (20cm, 20 porciones)",
+    "descripcion": "Torta personalizada de 20cm. También se realizan foto tortas con papel oblea. [cite: 18, 22, 23]",
+    "precio": 180.00,
+    "notas_generales": "Sabores y rellenos disponibles. [cite: 25-39]"
+  },
+  {
+    "id_producto": 6,
+    "id_categoria": 1,
+    "nombre": "Drip Cake (6 porciones)",
+    "descripcion": "Pastel cubierto con caída de ganache, tres capas de bizcocho y dos rellenos. [cite: 45, 46]",
+    "precio": 68.00
+  },
+  {
+    "id_producto": 7,
+    "id_categoria": 1,
+    "nombre": "Drip Cake (10 porciones)",
+    "descripcion": "Pastel cubierto con caída de ganache, tres capas de bizcocho y dos rellenos. [cite: 45, 48]",
+    "precio": 98.00
+  },
+  {
+    "id_producto": 8,
+    "id_categoria": 2,
+    "nombre": "Cake de Limón (pequeño)",
+    "descripcion": "Esponjoso bizcocho de limón cubierto con glaseado de limón. [cite: 51]",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 9,
+    "id_categoria": 2,
+    "nombre": "Cake de Limón (8-10 porciones)",
+    "descripcion": "Esponjoso bizcocho de limón cubierto con glaseado de limón. [cite: 51, 52]",
+    "precio": 78.00
+  },
+  {
+    "id_producto": 10,
+    "id_categoria": 2,
+    "nombre": "Cheesecake de Fresa (4-6 porciones)",
+    "descripcion": "Cheesecake de fresa. [cite: 53, 54]",
+    "precio": 68.00
+  },
+  {
+    "id_producto": 11,
+    "id_categoria": 2,
+    "nombre": "Cheesecake de Fresa (8-10 porciones)",
+    "descripcion": "Cheesecake de fresa. [cite: 53, 54]",
+    "precio": 98.00
+  },
+  {
+    "id_producto": 12,
+    "id_categoria": 2,
+    "nombre": "Mouse de Maracuya (6 porciones)",
+    "descripcion": "Delicioso y refrescante postre de maracuyá. [cite: 56, 57]",
+    "precio": 55.00
+  },
+  {
+    "id_producto": 13,
+    "id_categoria": 2,
+    "nombre": "Mouse de Maracuya (10 porciones)",
+    "descripcion": "Delicioso y refrescante postre de maracuyá. [cite: 56, 57]",
+    "precio": 85.00
+  },
+  {
+    "id_producto": 14,
+    "id_categoria": 2,
+    "nombre": "Cake de Arandanos (6 porciones)",
+    "descripcion": "Esponjoso bizcocho con trocitos de arándanos, decorado con crumble. [cite: 59, 60]",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 15,
+    "id_categoria": 2,
+    "nombre": "Cake de Arandanos (10 porciones)",
+    "descripcion": "Esponjoso bizcocho con trocitos de arándanos, decorado con crumble. [cite: 59, 60]",
+    "precio": 80.00
+  },
+  {
+    "id_producto": 16,
+    "id_categoria": 2,
+    "nombre": "Red Velvet (4-6 porciones)",
+    "descripcion": "Pastel en capas cubierto con glaseado de queso crema, decorado con fresas y chocolate. [cite: 62, 63]",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 17,
+    "id_categoria": 2,
+    "nombre": "Red Velvet (8-10 porciones)",
+    "descripcion": "Pastel en capas cubierto con glaseado de queso crema, decorado con fresas y chocolate. [cite: 62, 63]",
+    "precio": 90.00
+  },
+  {
+    "id_producto": 18,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Clásico (6 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche. [cite: 65, 66]",
+    "precio": 40.00
+  },
+  {
+    "id_producto": 19,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Clásico (8-10 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche. [cite: 65, 66]",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 20,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Café (6 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche, sabor café. [cite: 65, 66]",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 21,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Café (8-10 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche, sabor café. [cite: 65, 66]",
+    "precio": 70.00
+  },
+  {
+    "id_producto": 22,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Chocolate (6 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche, sabor chocolate. [cite: 65, 66]",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 23,
+    "id_categoria": 2,
+    "nombre": "Tres Leches Chocolate (8-10 porciones)",
+    "descripcion": "Esponjoso bizcocho bañado en tres tipos de leche, sabor chocolate. [cite: 65, 66]",
+    "precio": 70.00
+  },
+  {
+    "id_producto": 24,
+    "id_categoria": 2,
+    "nombre": "Carrot Cake (6-8 porciones)",
+    "descripcion": "Bizcocho de zanahoria con frutos secos, glaseado de crema de queso. [cite: 71, 72]",
+    "precio": 60.00,
+    "notas_generales": "Relleno de manjar de olla opcional. [cite: 73]"
+  },
+  {
+    "id_producto": 25,
+    "id_categoria": 2,
+    "nombre": "Carrot Cake (10 porciones)",
+    "descripcion": "Bizcocho de zanahoria con frutos secos, glaseado de crema de queso. [cite: 71, 72]",
+    "precio": 90.00,
+    "notas_generales": "Relleno de manjar de olla opcional. [cite: 73]"
+  },
+  {
+    "id_producto": 26,
+    "id_categoria": 2,
+    "nombre": "Torta de Chocolate (6-8 porciones)",
+    "descripcion": "Húmedo bizcocho de chocolate, relleno de fudge casero, cubierto de chocolate y frutas o chispas. [cite: 75, 77]",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 27,
+    "id_categoria": 2,
+    "nombre": "Torta de Chocolate (10-12 porciones)",
+    "descripcion": "Húmedo bizcocho de chocolate, relleno de fudge casero, cubierto de chocolate y frutas o chispas. [cite: 75, 77]",
+    "precio": 100.00
+  },
+  {
+    "id_producto": 28,
+    "id_categoria": 2,
+    "nombre": "Postre en bowl para compartir",
+    "descripcion": "Bizcocho de chocolate, crema pastelera, fresas y fudge de chocolate casero. [cite: 140]",
+    "precio": null
+  },
+  {
+    "id_producto": 29,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Clásico (4 unidades)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado. [cite: 68, 69]",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 30,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Clásico (6 minis)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado. [cite: 68, 69]",
+    "precio": 35.00
+  },
+  {
+    "id_producto": 31,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Chocolate (4 unidades)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado y chocolate. [cite: 68, 69]",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 32,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Chocolate (6 minis)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado y chocolate. [cite: 68, 69]",
+    "precio": 35.00
+  },
+  {
+    "id_producto": 33,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Nutella (4 unidades)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado y Nutella. [cite: 68, 69]",
+    "precio": 55.00
+  },
+  {
+    "id_producto": 34,
+    "id_categoria": 3,
+    "nombre": "Roles de Canela Nutella (6 minis)",
+    "descripcion": "Masa enrollada con canela y azúcar, con glaseado y Nutella. [cite: 68, 69]",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 35,
+    "id_categoria": 3,
+    "nombre": "Profiteroles (Caja x6)",
+    "descripcion": "Bolitas de pasta choux rellenas (crema pastelera/fudge/manjar) decoradas. [cite: 79, 81, 82, 84]",
+    "precio": 35.00
+  },
+  {
+    "id_producto": 36,
+    "id_categoria": 3,
+    "nombre": "Profiteroles (Caja x12)",
+    "descripcion": "Bolitas de pasta choux rellenas (crema pastelera/fudge/manjar) decoradas. [cite: 79, 81, 82, 84]",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 37,
+    "id_categoria": 3,
+    "nombre": "Brownies (6 unidades)",
+    "descripcion": "6 brownies con hasta 3 toppings a elección. [cite: 86]",
+    "precio": 30.00,
+    "notas_generales": "Toppings premium (Milo, Hershey's, Nutella, M&M's) tienen costo adicional. [cite: 97-102]"
+  },
+  {
+    "id_producto": 38,
+    "id_categoria": 3,
+    "nombre": "Brownies (12 minis)",
+    "descripcion": "12 mini brownies con hasta 6 toppings a elección. [cite: 87]",
+    "precio": 50.00,
+    "notas_generales": "Toppings premium (Milo, Hershey's, Nutella, M&M's) tienen costo adicional. [cite: 97-102]"
+  },
+  {
+    "id_producto": 39,
+    "id_categoria": 3,
+    "nombre": "Alfajorcitos de maicena (25 unidades)",
+    "precio": 35.00
+  },
+  {
+    "id_producto": 40,
+    "id_categoria": 3,
+    "nombre": "Alfajorcitos de maicena (50 unidades)",
+    "precio": 65.00
+  },
+  {
+    "id_producto": 41,
+    "id_categoria": 3,
+    "nombre": "Trufas (25 unidades)",
+    "precio": 32.00
+  },
+  {
+    "id_producto": 42,
+    "id_categoria": 3,
+    "nombre": "Trufas (50 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 43,
+    "id_categoria": 3,
+    "nombre": "Empanadas de boda (25 unidades)",
+    "precio": 30.00
+  },
+  {
+    "id_producto": 44,
+    "id_categoria": 3,
+    "nombre": "Empanadas de boda (50 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 45,
+    "id_categoria": 3,
+    "nombre": "Piononitos (25 unidades)",
+    "precio": 38.00
+  },
+  {
+    "id_producto": 46,
+    "id_categoria": 3,
+    "nombre": "Piononitos (50 unidades)",
+    "precio": 74.00
+  },
+  {
+    "id_producto": 47,
+    "id_categoria": 3,
+    "nombre": "Mini brownies (25 unidades)",
+    "precio": 30.00
+  },
+  {
+    "id_producto": 48,
+    "id_categoria": 3,
+    "nombre": "Mini brownies (50 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 49,
+    "id_categoria": 3,
+    "nombre": "Mini tartaleta (25 unidades)",
+    "precio": 30.00
+  },
+  {
+    "id_producto": 50,
+    "id_categoria": 3,
+    "nombre": "Mini tartaleta (50 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 51,
+    "id_categoria": 3,
+    "nombre": "Mini chips (25 unidades)",
+    "precio": 30.00
+  },
+  {
+    "id_producto": 52,
+    "id_categoria": 3,
+    "nombre": "Mini chips (50 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 53,
+    "id_categoria": 3,
+    "nombre": "Milhojas (25 unidades)",
+    "precio": 40.00
+  },
+  {
+    "id_producto": 54,
+    "id_categoria": 3,
+    "nombre": "Milhojas (50 unidades)",
+    "precio": 80.00
+  },
+  {
+    "id_producto": 55,
+    "id_categoria": 3,
+    "nombre": "Chocotejas (5 unidades)",
+    "descripcion": "Relleno a elegir: oreo, manjar, lentejitas, pasas, mani, coco. [cite: 111-117]",
+    "precio": 10.00
+  },
+  {
+    "id_producto": 56,
+    "id_categoria": 3,
+    "nombre": "Alfajores (5 unidades)",
+    "descripcion": "Rellena de manjar. [cite: 121]",
+    "precio": 12.00,
+    "notas_generales": "Cubierto de chocolate oscuro o blanco con costo adicional. [cite: 122]"
+  },
+  {
+    "id_producto": 57,
+    "id_categoria": 3,
+    "nombre": "Trufas (5 unidades)",
+    "descripcion": "De vainilla o chocolate [cite: 126], cubierto de chocolate o chocolate blanco[cite: 128, 129].",
+    "precio": 10.00
+  },
+  {
+    "id_producto": 58,
+    "id_categoria": 4,
+    "nombre": "Petipanes (25 unidades)",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 59,
+    "id_categoria": 4,
+    "nombre": "Petipanes (50 unidades)",
+    "precio": 95.00
+  },
+  {
+    "id_producto": 60,
+    "id_categoria": 4,
+    "nombre": "Nuggets (25 unidades)",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 61,
+    "id_categoria": 4,
+    "nombre": "Nuggets (50 unidades)",
+    "precio": 95.00
+  },
+  {
+    "id_producto": 62,
+    "id_categoria": 4,
+    "nombre": "Mini causitas (25 unidades)",
+    "precio": 60.00
+  },
+  {
+    "id_producto": 63,
+    "id_categoria": 4,
+    "nombre": "Mini causitas (50 unidades)",
+    "precio": 120.00
+  },
+  {
+    "id_producto": 64,
+    "id_categoria": 4,
+    "nombre": "Tequeños mixtos (25 unidades)",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 65,
+    "id_categoria": 4,
+    "nombre": "Tequeños mixtos (50 unidades)",
+    "precio": 85.00
+  },
+  {
+    "id_producto": 66,
+    "id_categoria": 4,
+    "nombre": "Mini empanadas (pollo o carne) (25 unidades)",
+    "precio": 40.00
+  },
+  {
+    "id_producto": 67,
+    "id_categoria": 4,
+    "nombre": "Mini empanadas (pollo o carne) (50 unidades)",
+    "precio": 80.00
+  },
+  {
+    "id_producto": 68,
+    "id_categoria": 4,
+    "nombre": "Mini triple (25 unidades)",
+    "precio": 45.00
+  },
+  {
+    "id_producto": 69,
+    "id_categoria": 4,
+    "nombre": "Mini triple (50 unidades)",
+    "precio": 90.00
+  },
+  {
+    "id_producto": 70,
+    "id_categoria": 4,
+    "nombre": "Piernitas bouchet (25 unidades)",
+    "precio": 80.00
+  },
+  {
+    "id_producto": 71,
+    "id_categoria": 4,
+    "nombre": "Piernitas bouchet (50 unidades)",
+    "precio": 140.00
+  },
+  {
+    "id_producto": 72,
+    "id_categoria": 4,
+    "nombre": "Piernitas en salsa BBQ (25 unidades)",
+    "precio": 100.00
+  },
+  {
+    "id_producto": 73,
+    "id_categoria": 4,
+    "nombre": "Piernitas en salsa BBQ (50 unidades)",
+    "precio": 190.00
+  },
+  {
+    "id_producto": 74,
+    "id_categoria": 4,
+    "nombre": "Enrrollados de hot dog en masa hojaldre (25 unidades)",
+    "precio": 50.00
+  },
+  {
+    "id_producto": 75,
+    "id_categoria": 4,
+    "nombre": "Enrrollados de hot dog en masa hojaldre (50 unidades)",
+    "precio": 90.00
+  },
+  {
+    "id_producto": 76,
+    "id_categoria": 5,
+    "nombre": "Packs de Bocaditos Personalizados",
+    "descripcion": "Packs de bocaditos personalizados armados para regalo u ocasión. [cite: 134]",
+    "precio": 38.00
+  }
+]

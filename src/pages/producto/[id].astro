@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ProductDetail from '../../components/ProductDetail.jsx';
+import allProducts from '../../data/products.json';
+
+export async function getStaticPaths() {
+  return allProducts.map(product => {
+    return {
+      params: { id: product.id_producto.toString() }
+    };
+  });
+}
+
+const { id } = Astro.params;
+
+const product = allProducts.find(p => p.id_producto.toString() === id);
+
+if (!product) {
+  return Astro.redirect('/404');
+}
+---
+<Layout title={product.nombre}>
+  <main class="max-w-md mx-auto bg-white">
+    <ProductDetail client:load product={product} onBackHref="/" />
+  </main>
+</Layout>

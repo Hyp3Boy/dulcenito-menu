@@ -1,0 +1,27 @@
+[
+  {
+    "id_categoria": 1,
+    "nombre": "Tortas Personalizadas",
+    "descripcion": "Tortas decoradas a pedido, incluyendo estilos Lunchbox, Drip Cakes y tamaños grandes."
+  },
+  {
+    "id_categoria": 2,
+    "nombre": "Cakes y Postres",
+    "descripcion": "Variedad de cakes, cheesecakes, mousses y postres clásicos."
+  },
+  {
+    "id_categoria": 3,
+    "nombre": "Bocaditos Dulces",
+    "descripcion": "Pequeñas porciones dulces como brownies, alfajores, trufas y más."
+  },
+  {
+    "id_categoria": 4,
+    "nombre": "Bocaditos Salados",
+    "descripcion": "Opciones saladas para eventos, como petipanes, tequeños y mini empanadas."
+  },
+  {
+    "id_categoria": 5,
+    "nombre": "Packs Personalizados",
+    "descripcion": "Paquetes de bocaditos armados y personalizados para ocasiones."
+  }
+]

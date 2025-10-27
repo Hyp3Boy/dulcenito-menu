@@ -1,0 +1,42 @@
+---
+import { Image } from "astro:assets";
+import WhatsappButton from "./WhatsappButton.astro";
+import categories from "../data/categories.json";
+import products from "../data/products.json";
+import promotions from "../data/promotions.json";
+import ProductFilter from "./ProductFilter.jsx";
+import PromotionCarousel from "./PromotionCarousel.jsx";
+import logo from "../assets/images/logo.png";
+---
+
+<div class="p-4 bg-surface min-h-screen">
+  <header class="mb-2">
+    <nav class="flex justify-between items-center gap-5 mb-4">
+      <Image src={logo} alt="Dulcenito Logo" class="size-12" />
+      <a href="/shopping" class="rounded-full p-2 hover:bg-white/50 transition-colors">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="icon icon-tabler icons-tabler-outline icon-tabler-shopping-cart"
+          ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+            d="M6 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"></path><path
+            d="M17 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"></path><path
+            d="M17 17h-11v-14h-2"></path><path d="M6 5l14 1l-1 7h-13"
+          ></path></svg>
+      </a>
+    </nav>
+    <h1 class="text-2xl font-bold text-brand-text">
+      ¡Bienvenido a <span class="block">Dulcenito! 🍰</span>
+    </h1>
+  </header>
+  <p class="text-gray-500 mb-6">El dulce sabor de lo hecho en casa.</p>
+  <PromotionCarousel client:load promotions={promotions} />
+  <ProductFilter client:load categories={categories} products={products} />
+</div>

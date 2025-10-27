@@ -1,0 +1,36 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Pastel de Chocolate Intenso">
+    <div class="relative">
+        <img src="/images/pastel-chocolate.jpg" alt="Pastel de Chocolate Intenso" class="w-full h-64 object-cover">
+        <div class="absolute top-4 left-4 bg-white p-2 rounded-full">
+            <i class="fas fa-arrow-left"></i>
+        </div>
+        <div class="absolute top-4 right-4 bg-white p-2 rounded-full">
+            <i class="far fa-heart"></i>
+        </div>
+    </div>
+    <div class="p-6 bg-white rounded-t-2xl -mt-5 relative">
+        <h1 class="text-3xl font-bold mb-2">Pastel de Chocolate Intenso</h1>
+        <p class="text-gray-500 mb-6">
+            Disfruta de nuestro Pastel de Chocolate Intenso, una creación decadente para el verdadero amante del chocolate. Cada capa es una sinfonía de rico chocolate belga, elaborado con el mejor cacao belga. El pastel está envuelto en un ganache de chocolate suave y aterciopelado, que promete una experiencia de lujo en cada bocado.
+        </p>
+        <h2 class="font-bold text-lg mb-2">Ingredientes</h2>
+        <div class="flex space-x-2 mb-6">
+            <span class="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">Chocolate Belga</span>
+            <span class="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">Harina de Almendras</span>
+            <span class="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">Huevos de Granja</span>
+            <span class="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">Mantequilla</span>
+        </div>
+        <div class="flex justify-between items-center">
+            <div class="flex items-center border rounded-lg">
+                <button class="px-3 py-1 text-lg">-</button>
+                <span class="px-4 py-1">1</span>
+                <button class="px-3 py-1 text-lg">+</button>
+            </div>
+            <p class="text-3xl font-bold">$25.00</p>
+        </div>
+        <button class="w-full bg-brand-pink text-white py-4 rounded-lg mt-6 font-bold text-lg">Añadir al carrito</button>
+    </div>
+</Layout>
