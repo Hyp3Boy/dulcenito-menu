@@ -6,7 +6,7 @@ const PromotionCard = ({ promotion }) => {
         <img 
           src={promotion.imagen} 
           alt={promotion.titulo} 
-          className="w-full h-32 object-cover rounded-t-xl" 
+          className="w-full h-32 md:h-52 object-cover rounded-t-xl"
         />
         
         <div className="p-4">
