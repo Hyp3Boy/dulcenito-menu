@@ -1,11 +1,11 @@
 // src/components/ProductFilter.jsx
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import CardProducto from './CardProducto.jsx';
 import ProductDetail from './ProductDetail.jsx';
 
 const ProductFilter = ({ categories, products }) => {
   // --- ESTADOS ---
-  const [selectedCategory, setSelectedCategory] = useState(categories[0]?.id_categoria);
+  const [selectedCategory, setSelectedCategory] = useState(categories?.[0]?.id_categoria);
   const [viewedProduct, setViewedProduct] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(4); 
