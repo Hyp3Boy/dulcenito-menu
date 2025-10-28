@@ -3,18 +3,18 @@
     "id": 1,
     "titulo": "20% de descuento en Tortas de Chocolate",
     "descripcion": "Disfruta de nuestras ricas y decadentes tortas de chocolate a un precio especial.",
-    "imagen": "/images/promo-chocolate.jpg"
+    "imagen": "src/assets/images/promo-chocolate.png"
   },
   {
     "id": 2,
-    "titulo": "Envío gratuito superando $50",
+    "titulo": "Envío gratuito superando S/50",
     "descripcion": "Disfruta de envío gratuito en todas tus compras.",
-    "imagen": "/images/promo-delivery.jpg"
+    "imagen": "src/assets/images/promo-delivery.png"
   },
   {
     "id": 3,
     "titulo": "Cupcakes 3x2",
     "descripcion": "Lleva 3 de tus cupcakes favoritos y paga solo 2.",
-    "imagen": "/images/promo-cupcakes.jpg"
+    "imagen": "src/assets/images/promo-cupcakes.png"
   }
 ]
